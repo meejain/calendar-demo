@@ -5,7 +5,7 @@ Edge Delivery Services Implementation - https://main--clarkcountynv--aemsites.ae
 - Preview: https://main--calendar-demo--meejain.aem.page/calendar
 - Live: https://main--calendar-demo--meejain.aem.live/calendar
 
-## Presentation with all details
+## Presentation along with screenshots with all details
 https://retrospect--whats-next--adobecom.hlx.page/calendar
 
 ## Customer Use Cases taken care
@@ -21,7 +21,7 @@ https://retrospect--whats-next--adobecom.hlx.page/calendar
 - Layout in Desktop View & Mobile View should match exactly.
 - Enablement of Featured Events.
 
-## Thought Process
+## Thought Process to achive the above
 - Event template – making Authoring as easy as possible.
 - Start gauging blocks / sections which gives the same look and feel of the current set of 10+ events designs.
 - Customer will have the ability to place these blocks anywhere, in order to meet the desired view of that event.
@@ -30,10 +30,22 @@ https://retrospect--whats-next--adobecom.hlx.page/calendar
 - 41 Departments ~ 41 SharePoint folders - Each department will have their own corresponding folder & each folder will have its own event template and default index file.
 - Users just need to duplicate that event template, add data to it with all metadata updated, Preview & Publish & event will be reflected onto the Calendar.
 - Indexing, Enablement of featured events & list of departments from 1 sheet.
-
+- All those events for every department will be indexed onto an events sheet under raw_index.
+- Those events will automatically be copied to shared-default sheet.
+- We have added an extra column within shared-default – called “featured”.
+- It will be site admins ONLY who will vet through the entire events list, validate & accordingly, mark “yes” to an important event row.
+- Once the sheet is Previewed and Published, automatically those “YES” events will get listed in the form of cards on the home page.
+- Making authoring as easy as possible in terms of addition of more departments in future.
+- For addition of new departments in future, there is no need to touch the code.
+- Simply add a row to the division – sheet with details, add its corresponding folder with its event sheet and index file – that's it.
 
 
 ## Step by Step Workflow
 
 <img width="1644" alt="image" src="https://github.com/user-attachments/assets/7d43f833-3d9b-4acc-b0b3-750f5de26ecf" />
+
+
+## Leveraging Full Calendar – free version for the calendar base code
+https://fullcalendar.io/
+
 
