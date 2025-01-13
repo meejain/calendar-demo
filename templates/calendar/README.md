@@ -8,6 +8,9 @@ Edge Delivery Services Implementation - https://main--clarkcountynv--aemsites.ae
 ## Presentation along with screenshots with all details
 https://retrospect--whats-next--adobecom.hlx.page/calendar
 
+## Recording for this implementation - first 30 mins
+https://adobe-my.sharepoint.com/personal/amiarora_adobe_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Famiarora%5Fadobe%5Fcom%2FDocuments%2FRecordings%2FEDS%20India%20%5F%20Monthly%20meet%20up%2D20250113%5F120238%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E61ab8eb5%2D99c6%2D42c1%2Db829%2De14768b30398
+
 ## Customer Use Cases taken care
 - 41 departments having their individual calendar events URL.
 - Each department should NOT be able to edit other department’s events & having their own Division ID’s.
