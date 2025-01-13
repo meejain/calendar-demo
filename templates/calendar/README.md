@@ -39,7 +39,8 @@ Edge Delivery Services Implementation
 
 ## Step by Step Workflow
 
-<img width="1644" alt="image" src="https://github.com/user-attachments/assets/7d43f833-3d9b-4acc-b0b3-750f5de26ecf" />
+<img width="1656" alt="image" src="https://github.com/user-attachments/assets/41b3bc7b-ef0b-4dd7-85e9-d63dc30655ab" />
+
 
 
 ## Leveraging Full Calendar – free version for the calendar base code
