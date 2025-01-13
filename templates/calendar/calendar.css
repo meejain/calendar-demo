@@ -10,6 +10,8 @@ body.calendar .event-modal .event-modal-footer a {
     line-height: 1 !important;
 }
 
+
+
 body.calendar div.event-modal a:any-link {
     color: white;
 }
