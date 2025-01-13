@@ -45,7 +45,8 @@ https://adobe-my.sharepoint.com/personal/amiarora_adobe_com/_layouts/15/stream.a
 
 ## Step by Step Workflow
 
-<img width="1644" alt="image" src="https://github.com/user-attachments/assets/7d43f833-3d9b-4acc-b0b3-750f5de26ecf" />
+<img width="1648" alt="image" src="https://github.com/user-attachments/assets/84092823-539e-4536-86f6-a46e87a08cb0" />
+
 
 
 ## Leveraging Full Calendar – free version for the calendar base code
